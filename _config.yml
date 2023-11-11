@@ -112,7 +112,4 @@ deploy:
   repo: https://github.com/zpByte/zpByte.github.io
 #   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
-#   message: Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }})
-
-# deploy:
-#   type: ""
+#   # message: Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }})
